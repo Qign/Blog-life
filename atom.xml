@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-27T03:56:40.880Z</updated>
+  <updated>2019-06-27T03:54:43.472Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,30 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>梦成僧</title>
-    <link href="http://yoursite.com/2019/06/25/%E6%A2%A6%E6%88%90%E5%83%A7/"/>
-    <id>http://yoursite.com/2019/06/25/梦成僧/</id>
-    <published>2019-06-24T22:06:06.000Z</published>
-    <updated>2019-06-27T03:56:40.880Z</updated>
+    <title>密码测试</title>
+    <link href="http://yoursite.com/2019/06/24/%E5%AF%86%E7%A0%81%E5%8A%A0%E5%AF%86/"/>
+    <id>http://yoursite.com/2019/06/24/密码加密/</id>
+    <published>2019-06-24T04:26:16.000Z</published>
+    <updated>2019-06-27T03:54:43.472Z</updated>
     
-    <content type="html"><![CDATA[<p>我昨晚做了个梦</p><p>梦见自己</p><p>假装剃发</p><p>假装披上僧衣</p><p>假装在寺内外踱步</p> <br><p>我在想要不要趁没人</p><p>发现的时候溜走</p><p>却又想趁没人注意的时候</p><p>假装当一回僧人</p> <br><p>我回到寺里</p><p>饭后院门锁了</p><p>我知道我今晚得早睡了</p><p>在寺里</p><p>今夜我是个僧人</p>]]></content>
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Welcome to my blog, 请输入密码 ：Mike 查看." />    <label for="pass">Welcome to my blog, 请输入密码 ：Mike 查看.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19JAUB9ruStnapmb7iVVHSCBUTK+4gEdFD19NNdVQgLytBOgl+ViERF1Pk6lRWbKSk1W+GnuGAQaKIJbTWYxuJhi82f5mjuB13qnHl0Cb+DNBs3MfflcnbHDU0RzUEqlR9/D/yOJwXoZsYm/xzkgrjDgcvx76uBHDM1FxLA2ohV9S/nxMMCNpB+B+f6wPznkjsao/T1Hp0L8kVx1RCHPxin2MN6OAYqpOIMu4WIfkBK651Agu4cSui5</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;我昨晚做了个梦&lt;/p&gt;
-&lt;p&gt;梦见自己&lt;/p&gt;
-&lt;p&gt;假装剃发&lt;/p&gt;
-&lt;p&gt;假装披上僧衣&lt;/p&gt;
-&lt;p&gt;假装在寺内外踱步&lt;/p&gt;
- &lt;br&gt;
-
-&lt;p&gt;我在想要不要趁没人&lt;/p&gt;
-&lt;p&gt;发现的时候溜走&lt;/p&gt;
-&lt;p&gt;却又想趁没人注意的时候&lt;/p&gt;
-&lt;p&gt;假装当一回僧人&lt;/p
-      
+      薄荷加多了.
     
     </summary>
     
@@ -70,24 +57,6 @@
 &lt;p&gt;只有想你的凉&lt;/p&gt;
 
       
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>密码测试</title>
-    <link href="http://yoursite.com/2019/06/24/%E5%AF%86%E7%A0%81%E5%8A%A0%E5%AF%86/"/>
-    <id>http://yoursite.com/2019/06/24/密码加密/</id>
-    <published>2019-06-24T04:26:16.000Z</published>
-    <updated>2019-06-27T03:54:43.472Z</updated>
-    
-    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Welcome to my blog, 请输入密码 ：Mike 查看." />    <label for="pass">Welcome to my blog, 请输入密码 ：Mike 查看.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/A1by7oWG0ZNkash+6OopqXumAKWdYwG9QfCJS5UkV9RW8NWheThpZpdK/gJpn/iVViKNSVeVMxbrgCzx0KNAR4TKSSDzpMH/2f6ONXUo1o6MRuifmcseQlFmlx0LRZBUv+Tta0xmkKNnQrAL7gzpBZfw8eBpip1cQDUuJ+XQgFnlUIrIT8k/GUMih3S2Ko5PwEWmM0xx9Lvp1a713MnsSAp/3emjzn/TbUppmrjtodZDTBtu7JsJW</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-    
-    <summary type="html">
-    
-      薄荷加多了.
     
     </summary>
     
