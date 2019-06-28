@@ -1,0 +1,100 @@
+
+
+# site icon
+favicon: /img/favicon.png
+
+# author headimg
+headimg: /img/favicon.png  #https://imgchr.github.la/steve.jpeg
+# author info
+name: Q-Q
+description: 每一个不曾起舞的日子都是对生命的辜负。
+
+# search
+search: 
+    enable: false
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: true
+  menus:      
+    -
+      name: 首页
+      link: / 
+      target: false
+    -
+      name: 分类
+      link: /categories/  
+      target: false
+    -
+      name: 标签
+      link: /tags/  
+      target: false
+    -
+      name: 关于
+      link: /about/  
+      target: false
+    #-
+     # name: Weibo
+     # link: http://weibo.com/
+     # target: _blank
+
+# count(统计)
+count:
+  enable: false
+
+# comments
+comments:
+  gitalk:
+    enable: true
+    github_id: Qign # Github repo owner
+    repo: talk  # Repository name to store issues
+    client_id: bc302799263ab16814f7 # Github Application Client ID
+    client_secret: 1ef5aa28601010f71ce5faa47a9a77c609c445ca   # Github Application Client Secret
+    admin_user: Qign # GitHub repo owner and collaborators, only these guys can initialize github issues
+    distraction_free_mode: true # Facebook-like distraction free mode
+    # Gitalk's display language depends on user's browser or system environment
+    # If you want everyone visiting your site to see a uniform language, you can set a force language value
+    # Available values: en, es-ES, fr, ru, zh-CN, zh-TW
+    language: 
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+
+live2d:  
+  enable: true  
+  scriptFrom: local  
+  pluginRootPath: live2dw/  
+  pluginJsPath: lib/  
+  pluginModelPath: assets/  
+  tagMode: false  
+  log: false  
+  model:    
+    use: live2d-widget-model-tororo
+  display:    
+    position: right    
+    width: 150    
+    height: 300  
+  mobile:    
+    show: true
+
+social: 
+  -
+    name: weibo
+    link: http://weibo.com/
+  -
+    name: github
+    link: https://github.com/
+  -
+    name: zhihu
+    link: https://www.zhihu.com/
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
