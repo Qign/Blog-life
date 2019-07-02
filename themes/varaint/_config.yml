@@ -1,13 +1,13 @@
 
 
-# site icon
+# site icon 
 favicon: /img/favicon.png
 
 # author headimg
 headimg: /img/favicon.png  #https://imgchr.github.la/steve.jpeg
 # author info
 name: Q-Q
-description: 你的风景没有我，我的眼里全是你。
+description: 你的世界没有我，我的风景全是你。
 
 # search
 search: 
@@ -57,6 +57,18 @@ comments:
     # If you want everyone visiting your site to see a uniform language, you can set a force language value
     # Available values: en, es-ES, fr, ru, zh-CN, zh-TW
     language: 
+gitment:
+    enable: true
+    mint: true
+    count: true
+    cleanly: false
+    githubID: Qign
+    repo: talk
+    ClientID: bc302799263ab16814f7
+    ClientSecret: 1ef5aa28601010f71ce5faa47a9a77c609c445ca
+    lazy: true
+    proxy_gateway:
+    redirect_protocol:
 # accounts support weibo/github/zhihu/twitter/douban 
 # display to former three
 
