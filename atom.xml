@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://baidu.com/"/>
-  <updated>2019-07-01T10:56:05.593Z</updated>
+  <updated>2019-07-02T10:43:49.712Z</updated>
   <id>http://baidu.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雨停了</title>
+    <link href="http://baidu.com/2019/07/01/%E4%BD%A0%E5%91%A2/"/>
+    <id>http://baidu.com/2019/07/01/你呢/</id>
+    <published>2019-07-01T15:26:25.000Z</published>
+    <updated>2019-07-02T10:43:49.712Z</updated>
+    
+    <content type="html"><![CDATA[<br><p>雨会停 人会走<br>雨停的时候 人离开了<br>错过了一次次<br>云都哭了吧</p><p>最悲伤的<br>不是分散<br>而是<br>下次无期</p><p>最幸福的<br>并非相聚<br>而是<br>花前有期</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;br&gt;
+
+&lt;p&gt;雨会停 人会走&lt;br&gt;雨停的时候 人离开了&lt;br&gt;错过了一次次&lt;br&gt;云都哭了吧&lt;/p&gt;
+&lt;p&gt;最悲伤的&lt;br&gt;不是分散&lt;br&gt;而是&lt;br&gt;下次无期&lt;/p&gt;
+&lt;p&gt;最幸福的&lt;br&gt;并非相聚&lt;br&gt;而是&lt;br&gt;花前有期&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="短句" scheme="http://baidu.com/categories/%E7%9F%AD%E5%8F%A5/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>夏不言</title>
@@ -39,6 +67,33 @@
     </summary>
     
       <category term="短句" scheme="http://baidu.com/categories/%E7%9F%AD%E5%8F%A5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>谁又一个人看电影</title>
+    <link href="http://baidu.com/2019/06/30/%E8%B0%81%E5%8F%88%E6%84%BF%E6%84%8F%E4%B8%80%E4%B8%AA%E4%BA%BA/"/>
+    <id>http://baidu.com/2019/06/30/谁又愿意一个人/</id>
+    <published>2019-06-30T09:26:16.000Z</published>
+    <updated>2019-07-02T09:41:30.572Z</updated>
+    
+    <content type="html"><![CDATA[<br><p>周日的下午。闷闷热的，一点小雨也湿不着的闷。就买了电影票，一个人去看电影。<br>好巧，这次刚刚好卡在2对情侣中间。</p><p><img src="assets/1562060453134.png" alt="1562060453134"></p><p>孤单的人做孤独的事</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;br&gt;
+
+&lt;p&gt;周日的下午。闷闷热的，一点小雨也湿不着的闷。就买了电影票，一个人去看电影。&lt;br&gt;好巧，这次刚刚好卡在2对情侣中间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/1562060453134.png&quot; alt=&quot;1562060453134&quot;&gt;&lt;/p&gt;
+&lt;p&gt;孤
+      
+    
+    </summary>
+    
+      <category term="日记" scheme="http://baidu.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
   </entry>
@@ -223,7 +278,7 @@
     <published>2019-01-24T04:26:16.000Z</published>
     <updated>2019-07-01T10:09:01.538Z</updated>
     
-    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="请输入密码 ：Mile 查看。" />    <label for="pass">请输入密码 ：Mile 查看。</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+y161pPneCJYSo/LPFk7VpppC8ZjVnThr9TXbcxYi0AQqE3fg8D+KxDZNwGoJnBns1MMYxp114otMHbo6GgGBaDVj6KssyzC/TVLsCUrVX7hGVr8Qn29KjOCHOoHnEJ44eGahIiwa2/prTc7Zg2k4iVCKHPffjwo4AbEsdV8lm8cd36wa3Z8AMm5W+kCvoSF52x5XSSEol6Q==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="请输入密码 ：Mile 查看。" />    <label for="pass">请输入密码 ：Mile 查看。</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/ByWl3wWsQiHYxI3xBlN0BHUIgsh1hkCKRn8+4FVK0JnddnWJRuP593TsON6jcak7B7OsLF4Wcnvm4BVShnqJPZkI5n5FpU7QW8BDe1A2n+zOdR0IWa1mHSaiRmN/M16Au6Rh6Qspt+jtDMl5um49mgXYzlNc3MY9KslmhSYaV7knr8g0cBpXtT5UtvO/16BFyxd87CQmI0A==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
