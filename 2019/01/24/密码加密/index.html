@@ -92,7 +92,7 @@
 <div id="decryptionError" style="display: none;">Incorrect Password!</div>
 <div id="noContentError" style="display: none;">No content to display!</div>
 <div id="encrypt-blog" style="display:none">
-U2FsdGVkX19igNj6qQKZflRrBy2eCadp/g5S42XCn0UwcgzaGP5tSF7RaGEb72jXszgXT0H/CzL8RAV4nS1RlEsABtAlON/vAsKi9MP1sT2NUTVcxMMiZ8c3eisEtTkV3/mckKjC1NVjeEvr6fFgzzh3wTk8LLS+4mCJ0jLxbPSoPx3TMqNP6OV9N7lbB9bUAPVYGVcnEvS8rTbZagVKzQ==
+U2FsdGVkX18td0ocwgFdz23VLYpNQOXsHDB8KKRgwUiZ+3Ip8tCW971vmIXJyYyPUb3n3adYy7TscNXAusCCJkjJtoraC1DHcK05HyrF+kSOfmpU95RiN6a+ehc5sO4CuOq/zw3VsrrBLbDgDLiP251jUr/bcnodxW1S2Vmk3rK+gBWyIPXz50tYTj2+lJuGOBVzJK3JavnPNhrJbYmPVQ==
 </div>
 <script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">
 	</div>
@@ -114,6 +114,27 @@ U2FsdGVkX19igNj6qQKZflRrBy2eCadp/g5S42XCn0UwcgzaGP5tSF7RaGEb72jXszgXT0H/CzL8RAV4
   </svg>
 
   
+  
+  
+    {% if site.comment_gitment_repo %}
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
+<script src="https://billts.site/js/gitment.js"></script>
+<script>
+    var gitment = new Gitment({
+        id: 'Thu Jan 24 2019 12:26:16 GMT+0800',
+        owner: '{{site.github_username}}',
+        repo: '{{site.comment_gitment_repo}}',
+        oauth: {
+            client_id: '{{site.comment_gitment_clientId}}',
+            client_secret: '{{site.comment_gitment_clientSecret}}',
+        },
+    });
+    gitment.render('gitmentContainer')
+</script>
+{% endif %}
+
+    
 
 
   <div class="wrapper"></div>
